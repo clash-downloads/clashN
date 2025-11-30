@@ -1,6 +1,9 @@
 # clashN 下载最新版下载Clash官网资源
 
+<div align="center">
+  <img width="150" height="150" alt="clashN" src="https://github.com/user-attachments/assets/becd19ae-3c17-4f5e-9bf4-5ba2955ac125" />
 
+</div>
 
 ## :memo: Clash节点资源
 
